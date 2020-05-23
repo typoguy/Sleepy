@@ -1,3 +1,6 @@
+.idea/*
+out/*
+
 # Created by https://www.gitignore.io/api/intellij
 # Edit at https://www.gitignore.io/?templates=intellij
 
@@ -11,7 +14,6 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
-.idea/*
 
 # Generated files
 .idea/**/contentModel.xml
@@ -77,7 +79,7 @@ fabric.properties
 
 *.iml
 modules.xml
-.idea/misc.xml
+# .idea/misc.xml
 *.ipr
 
 # Sonarlint plugin
