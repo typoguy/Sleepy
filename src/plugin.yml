@@ -1,0 +1,6 @@
+name: Sleepy
+version: 0.0.1
+author: Phase
+
+main: phase.phase.sleepy.Sleepy
+api-version: 1.15
